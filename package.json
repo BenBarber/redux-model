@@ -1,0 +1,27 @@
+{
+  "name": "redux-model",
+  "version": "0.0.1",
+  "description": "Redux Model is a library for robustly managing model data in your Redux state. Its designed to work effortlessly with a JSON API for its persistence layer.",
+  "main": "lib/model.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenBarber/redux-model.git"
+  },
+  "keywords": [
+    "redux",
+    "model",
+    "data",
+    "json",
+    "json",
+    "api"
+  ],
+  "author": "Ben Barber",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BenBarber/redux-model/issues"
+  },
+  "homepage": "https://github.com/BenBarber/redux-model#readme"
+}

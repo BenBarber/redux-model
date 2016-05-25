@@ -1,0 +1,13 @@
+# Vendor dependencies
+node_modules
+
+# Build directories
+build
+dist
+
+# Logs
+*.log
+npm-debug.log*
+
+# System files
+.DS_Store
