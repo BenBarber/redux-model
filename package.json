@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/BenBarber/redux-model/issues"
   },
-  "homepage": "https://github.com/BenBarber/redux-model#readme"
+  "homepage": "https://github.com/BenBarber/redux-model#readme",
+  "dependencies": {
+    "axios": "^0.11.1"
+  }
 }
